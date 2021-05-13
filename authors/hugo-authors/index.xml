@@ -5,6 +5,10 @@
     <link>http://indiroot.ca/authors/hugo-authors/</link>
     <description>Recent content in Indiroot Authors on indiroot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://indiroot.ca/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="http://indiroot.ca/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>

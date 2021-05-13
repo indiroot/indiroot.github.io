@@ -6,7 +6,11 @@
     <description>Recent content on indiroot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Apr 2021 18:51:23 +0430</lastBuildDate><atom:link href="http://indiroot.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Apr 2021 18:51:23 +0430</lastBuildDate>
+    
+	<atom:link href="http://indiroot.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Aboriginal Creation Stories</title>
       <link>http://indiroot.ca/post/aboriginal-creation-stories/</link>
@@ -61,7 +65,7 @@ Introduction In Canada, the term Indigenous people (or Aboriginal people) refers
       
       <guid>http://indiroot.ca/about/</guid>
       <description>At indiroot, we are aiming to provide a platform for indigenous people to promote their culture by utilizing Augmented Reality (AR) while selling their handcraft and art.
-Achievements  Accepted into Manitoba Accelerator SUV Program on Jun. 4th. Invited to pitch at TiE Vancouver Demo Day on Feb. 11th as one of the 20 top teams.  </description>
+Achievements  Accepted into Manitoba Accelerator SUV Program on Jun. 4th. Invited to pitch at TiE Vancouver Demo Day on Feb. 11th as one of the 20 top teams. Invited to pitch at Volition BC Startup Showcase on May. 12th as one of the 8 top teams.</description>
     </item>
     
   </channel>

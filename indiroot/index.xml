@@ -5,6 +5,10 @@
     <link>http://indiroot.ca/indiroot/</link>
     <description>Recent content in Indiroot on indiroot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://indiroot.ca/indiroot/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="http://indiroot.ca/indiroot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
